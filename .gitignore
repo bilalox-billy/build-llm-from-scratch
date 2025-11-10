@@ -68,3 +68,7 @@ Thumbs.db
 # *.csv
 # *.json
 # *.txt
+
+# Ignore Git-GitHub-Reference.md file
+Git-GitHub-Reference.md
+
