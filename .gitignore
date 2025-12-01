@@ -76,7 +76,7 @@ Git-GitHub-Reference.md
 notebooks/gpt2/
 
 # Ignore model directory
-model/
+model/*
 
 # Ignore specific 4.66 notebook
 notebooks/4.66
