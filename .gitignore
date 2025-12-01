@@ -72,3 +72,11 @@ Thumbs.db
 # Ignore Git-GitHub-Reference.md file
 Git-GitHub-Reference.md
 
+# Ignore specific notebook directories
+notebooks/gpt2/
+
+# Ignore model directory
+model/
+
+# Ignore specific 4.66 notebook
+notebooks/4.66
