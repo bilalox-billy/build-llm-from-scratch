@@ -80,3 +80,10 @@ model/*
 
 # Ignore specific 4.66 notebook
 notebooks/4.66
+
+notebooks/sms_spam_collection.zip
+notebooks/sms_spam_collection/
+
+# Ignore all the content of data folder
+data/*
+
